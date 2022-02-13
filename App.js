@@ -6,7 +6,7 @@
  * @flow strict-local
  */
 
- import React,{Component} from 'react';
+ import React,{useEffect} from 'react';
  import {
    SafeAreaView,
    ScrollView,
@@ -15,33 +15,41 @@
    Text,
    useColorScheme,
    View,
+   Image
  } from 'react-native';
- 
- import {
-   Colors,
-   DebugInstructions,
-   Header,
-   LearnMoreLinks,
-   ReloadInstructions,
- } from 'react-native/Libraries/NewAppScreen';
   import {NavigationContainer} from "@react-navigation/native";
-//  import {createStackNavigator} from "@react-navigation/stack";
-//  import Route from './src/Route';
   import Giris from './src/screens/Giris' 
+  import Home from './src/screens/Home'
   import {createStackNavigator} from "@react-navigation/stack";
-import Kayit from './src/screens/Kayit';
+  import Kayit from './src/screens/Kayit';
+  import Acilis from './src/screens/Acilis';
+  import Harita from './src/screens/Harita';
 
  const Stack = createStackNavigator();
  export default function App () { 
-   
+
+
       return (
       <NavigationContainer>
-       <StatusBar backgroundColor={'#D85172'}  />
+       <StatusBar backgroundColor={'#ff0000'}  />
      <Stack.Navigator>
+       <Stack.Screen name="Home" component={Home} options={{
+          title: 'NEYİM VAR',
+          headerStyle:{
+            backgroundColor:'#ff0000'
+          },
+          headerTintColor:'#fff',
+          headerTitleAlign:'center',
+          headerTitleStyle:{
+            fontWeight:'700',
+            letterSpacing:.5
+          },
+       }}
+       />
        <Stack.Screen  name="Giris" component={Giris} options={{
           title: 'NEYİM VAR',
           headerStyle: {
-            backgroundColor: '#D85172',
+            backgroundColor: '#ff0000',
           },
           headerTintColor: '#fff',
           headerTitleAlign:'center',
@@ -53,7 +61,7 @@ import Kayit from './src/screens/Kayit';
         <Stack.Screen name='Kayit' component={Kayit}  options={{
           title: 'NEYİM VAR',
           headerStyle: {
-            backgroundColor: '#D85172',
+            backgroundColor: '#ff0000',
           },
           headerTintColor: '#fff',
           headerTitleAlign:'center',
@@ -62,6 +70,19 @@ import Kayit from './src/screens/Kayit';
             letterSpacing:.5
           },
         }}/>
+        <Stack.Screen name="Harita" component={Harita} options={{
+        title: 'NEYİM VAR',
+        headerStyle:{
+          backgroundColor:'#ff0000'
+        },
+        headerTintColor:'#fff',
+        headerTitleAlign:'center',
+        headerTitleStyle:{
+          fontWeight:'700',
+          letterSpacing:.5
+        },
+     }}
+       />
      </Stack.Navigator>
      </NavigationContainer>
         )
