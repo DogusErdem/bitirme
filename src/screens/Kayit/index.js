@@ -16,12 +16,11 @@ import React,{useState} from 'react';
   const [hide,setHide] = useState(false)
   const [hide1,setHide1] = useState(false)
   const [sifre,onChangeText] = useState();
-  const [sifretekrar,onChangeText1] = useState();
+  //const [sifretekrar,onChangeText1] = useState();
   const deneme =() =>{
     alert('POST BAŞARILI')
     console.log(sifre)
   }
-
     return(
       <ScrollView style={style.area}>
         <View style={style.board}>
@@ -65,7 +64,7 @@ import React,{useState} from 'react';
               placeholder='Şifre'
               secureTextEntry={hide}
               value={values.sifre}
-              onChangeText={()=>{{handleChange('sifre')} {onChangeText(sifre)}}}
+              onChangeText={handleChange('sifre')}
             />
             {(errors.sifre) && <Text style={style.errors_title}>{errors.sifre}</Text>}
             <Icon style={{position:'absolute',left:8,top:19}} name={'key'} size={15}/>

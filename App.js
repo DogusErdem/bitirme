@@ -24,6 +24,7 @@
   import Kayit from './src/screens/Kayit';
   import Acilis from './src/screens/Acilis';
   import Harita from './src/screens/Harita';
+import Eczane from './src/screens/Eczane';
 
  const Stack = createStackNavigator();
  export default function App () { 
@@ -71,6 +72,19 @@
           },
         }}/>
         <Stack.Screen name="Harita" component={Harita} options={{
+        title: 'NEYİM VAR',
+        headerStyle:{
+          backgroundColor:'#ff0000'
+        },
+        headerTintColor:'#fff',
+        headerTitleAlign:'center',
+        headerTitleStyle:{
+          fontWeight:'700',
+          letterSpacing:.5
+        },
+     }}
+       />
+       <Stack.Screen name="Eczane" component={Eczane} options={{
         title: 'NEYİM VAR',
         headerStyle:{
           backgroundColor:'#ff0000'

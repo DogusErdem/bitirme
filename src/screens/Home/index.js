@@ -38,7 +38,7 @@ import React,{Component} from 'react';
             </TouchableOpacity>
           </View>
           <View style={style.item}>
-            <TouchableOpacity style={style.button}>
+            <TouchableOpacity style={style.button} onPress={()=>navigation.navigate('Eczane')}>
               <Text style={style.title}>ÇEVREMDEKİ NÖBETÇİ ECZANELER</Text>
             </TouchableOpacity>
           </View>
