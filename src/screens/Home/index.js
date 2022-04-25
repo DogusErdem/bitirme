@@ -42,6 +42,11 @@ import React,{Component} from 'react';
               <Text style={style.title}>ÇEVREMDEKİ NÖBETÇİ ECZANELER</Text>
             </TouchableOpacity>
           </View>
+          <View style={style.item}>
+            <TouchableOpacity style={style.button} onPress={()=>navigation.navigate('Teshis')}>
+              <Text style={style.title}>TESHİS DENEME</Text>
+            </TouchableOpacity>
+          </View>
           
           </View>
       </ScrollView>

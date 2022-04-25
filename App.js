@@ -24,7 +24,8 @@
   import Kayit from './src/screens/Kayit';
   import Acilis from './src/screens/Acilis';
   import Harita from './src/screens/Harita';
-import Eczane from './src/screens/Eczane';
+  import Eczane from './src/screens/Eczane';
+  import Teshis from './src/screens/Teshis';
 
  const Stack = createStackNavigator();
  export default function App () { 
@@ -96,6 +97,20 @@ import Eczane from './src/screens/Eczane';
           letterSpacing:.5
         },
      }}
+       />
+       <Stack.Screen name='Teshis' component={Teshis} options={{
+        title: 'NEYİM VAR',
+        headerStyle:{
+          backgroundColor:'#ff0000'
+        },
+        headerTintColor:'#fff',
+        headerTitleAlign:'center',
+        headerTitleStyle:{
+          fontWeight:'700',
+          letterSpacing:.5
+        },
+     }}
+       
        />
      </Stack.Navigator>
      </NavigationContainer>

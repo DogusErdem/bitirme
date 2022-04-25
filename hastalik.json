@@ -1,0 +1,406 @@
+{
+    "Burun": {
+            "Burun akıntısı veya tıkanıklığı":{               
+                    "Sinüzit":["Öksürük","Uzun vadeli akıntı","Geniz akıntısı","Ateş","Baş ağrısı","Koku kaybı"], 
+                    "Grip":["Öksürük","Baş ağrısı","Halsizlik","Tıkalı burun","Ateş","Soğuk terleme ve titreme","Geniz akıntısı"],
+                    "Nazal Polip":["Şiddetli burun tıkanıklığı","Seste değişiklik","Nefes alma güçlüğü","Tat ve koku almada bozukluk","Sinüslerde dolgunluk","Geniz akıntısı"],
+                    "Burun Deviasyonu":["Yüzde ağrı","Sık yaşanan sinüzit rahatsızlığı","Burun tünellerinde tıkanıklık","Baş ağrısı"],
+                    "Burun Eti":["Uzun süreli burun tıkanıklığı","Burun akıntısı","Koku hissinde değişiklik","Horlama","Hafif yüz ağrısı","Ağız kuruluğu","Burun deliklerinin içinde bir şey olduğu hissi","Alın bölgesinde ve göz çevresinde basınç ve ağrı"]
+                }, 
+            "Burun kanaması":{
+                    "Yüksek Tansiyon":["Burun kanaması","Kulak çınlaması","Baş dönmesi ve baş ağrısı","Bacaklarda şişlik","Bulanık ya da çift görme"],
+                    "Lösemi":["Burun kanaması","Açıklanamayan kilo kaybı","İştahsızlık","Öksürük", "Göğüs ağrıları","Nefes darlığı"]
+            }             
+    },
+    "Ağız ve Diş":{
+        
+            "Diş Eti Rahatsızlığı":{
+                "Gingivitis":["Şişmiş kabarık diş etleri","Kırmızı ve koyu kırmızı diş etleri","Kolay kanayan diş etleri","Ağız kokusu","Hassas diş etleri"],
+                "Diş Eti Çekilmesi":["Şişmiş kabarık diş etleri","Gevşek dişler ve diş kaybı","Isırdığınızda dişlerinizin birbirine uyma biçiminde bir değişiklik","Ağrılı çiğneme","Ağız kokusu","Diş etinin çekilerek dişlerin daha uzun görülmesi"]
+            },
+            "Ağız Boşluğu Hastalıkları":{
+                "Lökoplaki ":["Ağız içinde beyaz veya gri renkli lekeler","Kalın, sert, mukoza yüzeyinden yüksek lezyonlar","Tüylü lökoplaki için tüy benzeri görünümlü lezyonlar"],
+                "Eritroplaki":["Kötü ağız hijyeni","Ağız içersinde kırmızı plak oluşumu","Ağız içerisindeki kırmızı lekenin kazınmakla kaldırılamaması, kazınması halinde kanama görülebilmesi","Ağız içerisindeki kırmızı plakların, ağızdaki sağlıklı bölgeden keskin sınırlarla ayrılması"],
+                "Pamukçuk":["Yanakların iç yüzeyleri, dilin üst yüzeyi, diş etleri, boğaz ve bademciklerin üzerinde oluşan beyaz renkli tabakalar","Beyaz lezyonların kazınması ile birlikte oluşan hafif kan sızıntıları","Ağızda kötü tat","Beyaz tabakaların yoğun olduğu bölgelerde ağrı ve hassasiyet","Yutma güçlüğü"],
+                "Tükürük Bezi Taşı (Sialolit)":["Tükürük üretiminde azalma","Yemek yerken çene altı ve yanakta ağrılı şişlik","Şiddetli ağrı, bölgede sıcaklık ve komşu lenf bezlerinde şişlik"],
+                "Dil kanseri":["Dilde ağrı","Sesin kısılması","Konuşma sorunları","İyileşmeyen boğaz ağrısı","Yemek yerken kulağa vuran ağrı","Dilin pembe veya kırmızı bir renk alması","Tükürükten kan gelmesi","Yutkunma ve çiğnemede zorluk"]
+            }
+        
+    },
+    "Ortapedi Rahatsızlıkları":{
+        "Menisküs":["Diz ağrısı","Diz içerisinden gelen sesler","Şişme ve sertlik","Hareket kısıtlığı","Dizde kilitlenme veya bir noktada takılma"],
+        "Sinir Sıkışması":["Geçici süreli olarak oluşan güç kaybı","Sıkışma görülen bölgede şişlik olması","Gece uykudan uyandıran el uyuşmaları","Hareket etmede zorlanma","Sinirlerin yer aldığı bölgede ağrı ya da hafif sızı","Sıkışma görülen bölgede şişlik olması"],
+        "Bel ve Boyun Fıtığı":["Boyun ağrısı","Sırt, kol ve omuzlarda ağrı","El becerilerinde azalma","Kol ve parmaklarda uyuşmalar ve karıncalanma","Duyu kaybı","Kol ve el kaslarında güç kaybı","Reflekslerde zayıflama","Kolda incelme"],
+        "Siyatik":["Kalçanızdan topuğa doğru uzanan şiddetli ağrı","Hareketle daha kötüye giden ağrılar","Bacak ve ayaklarda siyatik sinir yolu boyunca hissedilen hissizlik ve güçsüzlük","Parmaklarınızın veya ayaklarınızın ağrılı karıncalanması","İdrar kaçırma"],
+        "Romatizma":["Nefes darlığı","Hareket kısıtlılığı","Sabah saatlerinde eklemlerde oluşan sertlik","Cildin güneşe karşı duyarlılık göstermesi","Gözlerde oluşan iltihaplanma","Görme yetisinin bozulması veya kaybolması","Uzun süreli yüksek ateş","Böbrek fonksiyonlarında azalma"],
+        "Topuk Dikeni":["Gün içinde kesik kesik ağrı","Sabah ilk atılan adımda keskin ağrı","Topuk iltihabı veya topuk şişmesi","Topuk altında kemik benzeri çıkıntı","Topukla yürüme zorluğu"]
+    },
+        "Göz": {
+            
+                "Göz Ağrısı": {
+                    "Yabancı nesne kaçması": [
+                        "Kirpik, toz veya makyaj kalıntıları gibi yabancı maddeler"
+                    ],
+                    "Konjonktivit": [
+                        "İltihap gözde kaşıntı",
+                        "Kızarıklık",
+                        "Akıntı"
+                    ],
+                    "Glokom": [
+                        "Mide bulantısı",
+                        "Baş ağrısı",
+                        "Görme kaybı"
+                    ],
+                    "İritis": [
+                        "İris iltihaplanması"
+                    ],
+                    "Hasar": [
+                        "Kimyasal yanıklar",
+                        "kıvılcım sıçraması",
+                        "Temizlik malzemelerinin göze sıçraması",
+                        "Kaynak makinelerinden sıçrayan çapak"
+                    ],
+                    "Kontakt lens tahrişi": [
+                        "Tahriş",
+                        "Enfeksiyon"
+                    ]
+                },
+                "Göz Sulanması": {
+                    "Göz Yorgunluğu": [
+                        "Aşırı derecede kitap okumak",
+                        "Bilgisayar başında kalmak"
+                    ],
+                    "Sinüzit": [
+                        "Ggeniz akıntısı",
+                        "Burunda sıvı birikmesi",
+                        "Burunda mukus birikmesi"
+                    ],
+                    "Alerjiler": [
+                        "Gözlerde aşırı derecede sulanma"
+                    ],
+                    "Blefarit": [
+                        "Göz kapağı iltihabı"
+                    ],
+                    "Soğuk Algınlığı": [
+                        "Burun akıntısı",
+                        "Anormal bir takım reaksiyonlar"
+                    ]
+                },
+                "Gözde Kızarıklık": {
+                    "Gözde tahriş": [
+                        "Kuru hava", 
+                        "güneşe doğrudan bakmak",
+                        "Toz",
+                        "Alerjik etkenler",
+                        "Kontakt lenslerin uzun süre çıkarılmadan kullanılması"
+                    ],
+                    "Göz enfeksiyonları": [
+                        "kornea, konjonktivit veya kirpik gibi göz çevresindeki dokuları etkileyen enfeksiyonlar"
+                    ],
+                    "Travma": [
+                        "Fiziksel Travmalar"
+                    ],
+                    "Glokom": [
+                        "Göz tansiyonu"
+                    ],
+                    "Keratit": [
+                        "Enfeksiyon",
+                        "Fiziksel Travma",
+                        "Alerji"
+                    ],
+                    "Sklerit": [
+                        "Gözün beyaz kısmının ciddi biçimde kızarması"
+                    ]
+                },
+                "Göz Kuruluğu": {
+                    "Yaşlanma": [
+                        "50 yaşından sonra göz kuruluğu"
+                    ],
+                    "A vitamini eksikliği": [
+                        "A vitamini eksikliği"
+                    ],
+                    "Düzenli kullanılan ilaçlar": [
+                        "antihistaminikler",
+                        "antidepresanlar",
+                        "beta blokerler"
+                    ],
+                    "Teknolojik ürünlerin uzun süreli kullanımı": [
+                        "cihazların uzun süreli kullanımı"
+                    ],
+                    "Sjögren sendromu": [
+                        "Lenfositlerin salgı bezlerine zarar vermesi"
+                    ],
+                    "Göz kapağı iltihabı": [
+                        "yağ bezelerinin tıkanarak iltihaplanmasıyla"
+                    ],
+                    "Yetersiz su tüketimi": [
+                        "Su tüketiminin yetersiz olması"
+                    ],
+                    "İklim Koşulları": [
+                        "rüzgâra maruz kalmak"
+                    ],
+                    "Kontakt Lens": [
+                        "kontakt lenslerin yanlış kullanımı"
+                    ]
+                },
+                "Gözde Kaşıntı": {
+                    "Alerjiler": [
+                        "Çeşitli Alerjiler"
+                    ],
+                    "Enfeksiyonlar": [
+                        "Çeşitli enfeksiyonlar",
+                        "Kirli ellerle göze dokunmak",
+                        "Yanlış lens kullanımı",
+                        "Temizlik",
+                        "Hava kirliliği"
+                    ],
+                    "Kuru göz": [
+                        "Yeterince gözyaşı üretimi olmaması",
+                        "İleri yaş",
+                        "diyabet",
+                        "romatoid"
+                    ],
+                    "Havada bulunan tahriş edici gazlar": [
+                        "Duman",
+                        "Mazot egzozu",
+                        "Parfüm"
+                    ],
+                    "Göz yorgunluğu": [
+                        "Uzun süre bilgisayar",
+                        "zayıf aydınlatılmış bir alanda kitap okumaya çalışmak"
+                    ]
+                },
+                "Göz Kararması": {
+                    "Tansiyonun ani şekilde yükselmesi ya da düşmesi": [
+                        "hastaların aniden ayağa kalkması"
+                    ],
+                    "Uzun süren açlık": [
+                        "uzun süre aç kalmak"
+                    ],
+                    "Yoğun çalışma temposu, stres ve yorgunluk": [
+                        "yorgunluğa bağlı olarak ya da yoğun strese maruz kalmak"
+                    ],
+                    "Şekerin düşmesi ya da yükselmesi": [
+                        "Şekerin yükselmesi",
+                        "Şekerin düşmesi"
+                    ],
+                    "Kansızlık": [
+                        "demir eksikliği"
+                    ],
+                    "Migren": [
+                        "göz kararması",
+                        "bulantı",
+                        "kusma"
+                    ],
+                    "Vertigo": [
+                        "göz kararması",
+                        "terleme",
+                        "işitme kaybı",
+                        "kulak çınlaması"
+                    ],
+                    "Beyin tümörleri": [
+                        "görme ile ilgili bölümlerinde meydana gelen tümörler"
+                    ]
+                }
+            
+        },
+        "Boğaz": {
+           
+                "Boğaz Ağrısı": {
+                    "Alerjiler": [
+                        "hayvan tüylerine",
+                        "Küf",
+                        "Toz",
+                        "Polen"
+                    ],
+                    "Havadaki kuruluk": [
+                        "yeterli nem bulunmaması",
+                        "boğazın kaşınmasına"
+                    ],
+                    "Tahriş ediciler": [
+                        "hava kirliliği",
+                        "Tütün dumanı",
+                        "Kimyasallar",
+                        "iç mekan kirlilikleri"
+                    ],
+                    "Kas gerginliği": [
+                        "Yüksek sesle konuşmak",
+                        "Dinlenmeden konuşmak"
+                    ],
+                    "Gastroözofageal reflü hastalığı (GERD)": [
+                        "yemek borusu"
+                    ],
+                    "HIV enfeksiyonu": [
+                        "sitomegalovirüs",
+                        "HIV"
+                    ],
+                    "Tümörler": [
+                        "Boğazdaki tümörler",
+                        "Dildeki tümörler",
+                        "gırtlaktaki kanserli tümörler"
+                    ],
+                    "Yaralanma": [
+                        "Darbe",
+                        "Kesik"
+                    ]
+                },
+                "Boğazda Şişlik": {
+                    "Enfeksiyonlar": [
+                        "Çeşitli enfeksiyonlar"
+                    ],
+                    "Mide ekşimesi ve mide reflüsü": [
+                        "boğazda yanma",
+                        "ağzında ekşi bir tat",
+                        "sürekli geğirmek",
+                        "ses kısıklığı",
+                        "göğüs ağrısı",
+                        "kuru öksürük",
+                        "ağız kokusu"
+                    ],
+                    "Alerjik Hastalıklar": [
+                        "Alerji"
+                    ],
+                    "Panik atak": [
+                        "terleme",
+                        "nefes darlığı",
+                        "bulantı",
+                        "baş ağrısı",
+                        "titreme",
+                        "yoğun bir iç sıkıntısı"
+                    ],
+                    "Guatr": [
+                        "öksürük",
+                        "ses kısıklığı"
+                    ]
+                },
+                "Boğaz Yanma": {
+                    "Enfeksiyonlar": [
+                        "enfeksiyonlar"
+                    ],
+                    "Geniz akıntısı": [
+                        "Burun boşluğu",
+                        "orta kulak bölgesi",
+                        "akıntı"
+                    ],
+                    "Alerji": [
+                        "çeşitli alerjiler"
+                    ],
+                    "Reflü": [
+                        "Reflü hastalığı"
+                    ],
+                    "Travmalar": [
+                        "çok soğuk",
+                        "çok sıcak",
+                        "sert yabancı cisimler"
+                    ],
+                    "Kuru hava": [
+                        "Havada yeterli nem olmaması"
+                    ],
+                    "Çeşitli kimyasallar": [
+                        "sigara dumanı",
+                        "hava kirliliği",
+                        "temizlik maddeleri"
+                    ]
+                }
+            
+        },
+        "Kalp": {
+            
+                "Taşikardi": {
+                    "nabız": [
+                        "dinlenme sırasında nabız 100'den fazla ise"
+                    ]
+                },
+                "Bradikardi": {
+                    "nabız": [
+                        "dinlenme sırasında nabız 60'tan az ise"
+                    ]
+                },
+                "Supraventriküler Taşikardi": {
+                    "nabız": [
+                        "kalp atış hızı aşırı fazla ise"
+                    ]
+                }
+            
+        },
+        "Baş": {
+           
+                "Baş ağrısı": {
+                    "Kan damarları ile ilgili bozukluklara bağlı nedenler": [
+                        "inme",
+                        "beyin içindeki damarlarda yapısal bozukluklar",
+                        "ateroskleroz"
+                    ],
+                    "Enfeksiyonlar": [
+                        "Çeşitli enfeksiyonlar"
+                    ],
+                    "Kafa içi basınç değişiklikleri": [
+                        "ani basınç değişiklikleri"
+                    ],
+                    "Tümor": [
+                        "Beyin tümörleri"
+                    ],
+                    "Travmalar": [
+                        "düşme",
+                        "trafik kazası"
+                    ],
+                    "Stres ve gerilim": [
+                        "aşırı stresli durumlar",
+                        "aşırı gerilimli durumlar"
+                    ],
+                    "Göz bozuklukları": [
+                        "kırma kusurları",
+                        "glokom",
+                        "görememe"
+                    ],
+                    "Yetersiz tüketim": [
+                        "az su kullanımı",
+                        "uzun süreli açlık"
+                    ]
+                },
+                "Baş dönmesi": {
+                    "Periferik vertigo": [
+                        "Bulantı",
+                        "kusma",
+                        "gözlerin dahi açamama"
+                    ],
+                    "Damarsal nedenler": [
+                        "ateroskleroz",
+                        "Kolesterol"
+                    ],
+                    "Beyin tümörleri": [
+                        "iyi huylu tümörler",
+                        "kötü huylu tümörler"
+                    ],
+                    "MS ve Myelin hastalıkları": [
+                        "MS hastalığı"
+                    ],
+                    "Enfeksiyonlar": [
+                        "Çeşitli enfeksiyonlar"
+                    ],
+                    "Travmalar": [
+                        "kişinin kaza geçirmesi",
+                        "başını bir yere çarpması"
+                    ],
+                    "Diyabet": [
+                        "Şeker hastalığı"
+                    ],
+                    "Hipertansiyon": [
+                        "Kan basıncı yükselmesi"
+                    ],
+                    "Metabolik hastalıklar": [
+                        "Karaciğer hastalıkları",
+                        "tiroit problemleri",
+                        "bazı ilaçların kullanılması",
+                        "kronik karaciğer hastalıkları"
+                    ],
+                    "Psikolojik etkenler ve stres": [
+                        "duygu durum bozuklukları",
+                        "baş dönmesi korkusu",
+                        "stres"
+                    ]
+                }
+            
+        }
+    
+    }       
